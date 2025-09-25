@@ -1,0 +1,12 @@
+---
+name: Raghu R
+age: 30
+city: Brussels
+is_student: true
+grade:
+  - subject: Math
+    grade: A
+  - subject: English
+    grade: A
+  - subject: Science
+    grade: A+
