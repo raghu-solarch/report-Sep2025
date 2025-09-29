@@ -5,10 +5,10 @@ city: Brussels
 is_student: true
 grade:
   - subject: Math
-    grade: B
+    grade: B+
   - subject: English
     grade: A
   - subject: Science
     grade: A
   - subject: History
-    grade: B+
+    grade: B
